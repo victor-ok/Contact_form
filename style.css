@@ -1,0 +1,35 @@
+/* body {
+ background-color: #4d4747;
+ color: #FFFFFF;
+}
+h1 {
+ color: #FFFF33;
+ text-align: center;
+ font: italic 200% fantasy;
+}
+p {
+ background-color: #FFFF33;
+ color: #333300;
+ text-align: right;
+ border: 3px groove #FFFF33;
+} */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  .Fcolor {
+    height: 37px!important;
+    width: 50%;
+    color:white!important;
+  }
+/* .form-error {
+    color: red;
+}
+.form-success {
+    color: green;
+}
+.input-error {
+    box-shadow: 0 0 5px red;
+
+} */
